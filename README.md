@@ -1,4 +1,4 @@
-# Semantic Segmentation using Deep Learning
+
 
 # Semantic Segmentation using Deep Learning (MobileNet, U-Net, DeepLabV3)
 
@@ -150,8 +150,4 @@ Each notebook includes:
 
 Adithya Shankar
 
----
 
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
